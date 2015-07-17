@@ -1,4 +1,5 @@
-[
+{
+	data: [
   {
     "Version": "3.6",
     "ZoneName": "blogpost_page_before_body",
@@ -2732,3 +2733,4 @@
     ]
   }
 ]
+}
