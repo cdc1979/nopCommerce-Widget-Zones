@@ -8,15 +8,20 @@
     <link href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css" rel="stylesheet">
     <link href="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.css">
     
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
-    <script src="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.js"></script>
-    
+
     <script type="text/javascript">
         $(document).ready(function () {
             $('#example').DataTable({
-                "ajax": 'widgetzones.json'
+                "ajax": 'widgetzones.json',
+                "serverSide": true,
+                "processing":true,
+                "columns": [
+            { "data": "Version" },
+            { "data": "ZoneName" }
+            ]
             });
         });
     </script>
@@ -29,7 +34,7 @@
                     <thead>
                         <tr>
                             <th>Version</th>
-                            <th>ZoneName</th>
+                            <th>Widget zone</th>
                         </tr>
                     </thead>
                 </table>
