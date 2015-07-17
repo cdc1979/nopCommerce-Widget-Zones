@@ -1,0 +1,2734 @@
+[
+  {
+    "Version": "3.6",
+    "ZoneName": "blogpost_page_before_body",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "blogpost_page_before_comments",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "blogpost_page_inside_comment",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "blogpost_page_after_comments",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "bloglist_page_before_posts",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "bloglist_page_inside_post",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "bloglist_page_after_posts",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_after_breadcrumb",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_before_subcategories",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_before_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_after_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_before_filters",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "categorydetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "manufacturerdetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "manufacturerdetails_before_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "manufacturerdetails_after_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "manufacturerdetails_before_filters",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "manufacturerdetails_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "manufacturerdetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productsbytag_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productsbytag_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productsbytag_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productsearch_page_basic",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productsearch_page_advanced",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productsearch_page_before_results",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productsearch_page_after_results",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "searchbox_before_search_button",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\SearchBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "searchbox",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\SearchBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "header_menu_before",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "header_menu_after",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "mob_header_menu_before",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "mob_header_menu_after",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "vendordetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Vendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "vendordetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Vendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_billing_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_billing_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_billing_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_progress_before",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\CheckoutProgress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_progress_after",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\CheckoutProgress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_completed_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Completed.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_completed_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Completed.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_confirm_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Confirm.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_confirm_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Confirm.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "opc_content_before",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OnePageCheckout.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "opc_content_after",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OnePageCheckout.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_billing_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_billing_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_billing_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_confirm_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcConfirmOrder.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_confirm_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcConfirmOrder.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_payment_info_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_payment_info_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_payment_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_payment_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_shipping_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_shipping_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_shipping_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_shipping_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "op_checkout_shipping_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_payment_info_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_payment_info_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_payment_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_payment_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_shipping_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_shipping_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_shipping_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_shipping_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "checkout_shipping_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "contactus_top",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactUs.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "contactus_bottom",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactUs.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "contactvendor_top",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactVendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "contactvendor_bottom",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactVendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "footer",
+    "FoundInFile": [
+      "~\\Views\\Common\\Footer.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "header_links_before",
+    "FoundInFile": [
+      "~\\Views\\Common\\HeaderLinks.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "header_links_after",
+    "FoundInFile": [
+      "~\\Views\\Common\\HeaderLinks.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "account_navigation_before",
+    "FoundInFile": [
+      "~\\Views\\Customer\\CustomerNavigation.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "account_navigation_after",
+    "FoundInFile": [
+      "~\\Views\\Customer\\CustomerNavigation.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "home_page_top",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "home_page_before_categories",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "home_page_before_products",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "home_page_before_best_sellers",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "home_page_before_news",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "home_page_before_poll",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "home_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "newslist_page_before_items",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "newslist_page_inside_item",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "newslist_page_after_items",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "newsitem_page_before_body",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "newsitem_page_before_comments",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "newsitem_page_inside_comment",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "newsitem_page_after_comments",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "orderdetails_page_top",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "orderdetails_page_overview",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "orderdetails_page_beforeproducts",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "orderdetails_product_line",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "orderdetails_page_afterproducts",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "orderdetails_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productreviews_page_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productreviews_page_inside_review",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productreviews_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_after_breadcrumb",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_before_pictures",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_after_pictures",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_overview_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_inside_overview_buttons_before",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_inside_overview_buttons_after",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_overview_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_before_collateral",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productdetails_add_info",
+    "FoundInFile": [
+      "~\\Views\\Product\\_AddToCart.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productbreadcrumb_before",
+    "FoundInFile": [
+      "~\\Views\\Product\\_ProductBreadcrumb.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productbreadcrumb_after",
+    "FoundInFile": [
+      "~\\Views\\Product\\_ProductBreadcrumb.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "profile_page_info_userdetails",
+    "FoundInFile": [
+      "~\\Views\\Profile\\Info.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "profile_page_info_userstats",
+    "FoundInFile": [
+      "~\\Views\\Profile\\Info.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "header",
+    "FoundInFile": [
+      "~\\Views\\Shared\\Header.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "header_selectors",
+    "FoundInFile": [
+      "~\\Views\\Shared\\Header.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "main_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsOne.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "main_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsOne.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "left_side_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "left_side_column_after_category_navigation",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "left_side_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "notifications",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Notifications.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productbox_addinfo_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ProductBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productbox_addinfo_middle",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ProductBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "productbox_addinfo_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ProductBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "body_start_html_tag_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "content_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "content_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "body_end_html_tag_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "head_html_tag",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.Head.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "order_summary_content_before",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "order_summary_cart_footer",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "order_summary_content_deals",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.6",
+    "ZoneName": "order_summary_content_after",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "blogpost_page_before_body",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "blogpost_page_before_comments",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "blogpost_page_inside_comment",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "blogpost_page_after_comments",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "bloglist_page_before_posts",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "bloglist_page_inside_post",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "bloglist_page_after_posts",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_after_breadcrumb",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_before_subcategories",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_before_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_after_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_before_filters",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "categorydetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "manufacturerdetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "manufacturerdetails_before_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "manufacturerdetails_after_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "manufacturerdetails_before_filters",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "manufacturerdetails_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "manufacturerdetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productsbytag_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productsbytag_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productsbytag_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productsearch_page_basic",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productsearch_page_advanced",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "searchbox_before_search_button",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\SearchBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "searchbox",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\SearchBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "header_menu_before",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "header_menu_after",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "mob_header_menu_before",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "mob_header_menu_after",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "vendordetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Vendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "vendordetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Vendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_billing_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_billing_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_billing_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_progress_before",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\CheckoutProgress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_progress_after",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\CheckoutProgress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_completed_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Completed.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_completed_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Completed.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_confirm_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Confirm.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_confirm_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Confirm.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_billing_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_billing_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_billing_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_confirm_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcConfirmOrder.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_confirm_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcConfirmOrder.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_payment_info_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_payment_info_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_payment_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_payment_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_shipping_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_shipping_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_shipping_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_shipping_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "op_checkout_shipping_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_payment_info_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_payment_info_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_payment_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_payment_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_shipping_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_shipping_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_shipping_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_shipping_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "checkout_shipping_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "contactus_top",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactUs.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "contactus_bottom",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactUs.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "footer",
+    "FoundInFile": [
+      "~\\Views\\Common\\Footer.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "header_links_before",
+    "FoundInFile": [
+      "~\\Views\\Common\\HeaderLinks.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "header_links_after",
+    "FoundInFile": [
+      "~\\Views\\Common\\HeaderLinks.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "account_navigation_before",
+    "FoundInFile": [
+      "~\\Views\\Customer\\CustomerNavigation.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "account_navigation_after",
+    "FoundInFile": [
+      "~\\Views\\Customer\\CustomerNavigation.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "home_page_top",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "home_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "newslist_page_before_items",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "newslist_page_inside_item",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "newslist_page_after_items",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "newsitem_page_before_body",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "newsitem_page_before_comments",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "newsitem_page_inside_comment",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "newsitem_page_after_comments",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "orderdetails_page_top",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "orderdetails_page_overview",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "orderdetails_page_beforeproducts",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "orderdetails_page_afterproducts",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "orderdetails_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productreviews_page_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productreviews_page_inside_review",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productreviews_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_after_breadcrumb",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_before_pictures",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_after_pictures",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_overview_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_overview_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_before_collateral",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productdetails_add_info",
+    "FoundInFile": [
+      "~\\Views\\Product\\_AddToCart.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productbreadcrumb_before",
+    "FoundInFile": [
+      "~\\Views\\Product\\_ProductBreadcrumb.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productbreadcrumb_after",
+    "FoundInFile": [
+      "~\\Views\\Product\\_ProductBreadcrumb.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "profile_page_info_userdetails",
+    "FoundInFile": [
+      "~\\Views\\Profile\\Info.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "profile_page_info_userstats",
+    "FoundInFile": [
+      "~\\Views\\Profile\\Info.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "header",
+    "FoundInFile": [
+      "~\\Views\\Shared\\Header.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "header_selectors",
+    "FoundInFile": [
+      "~\\Views\\Shared\\Header.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "main_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsOne.cshtml",
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "main_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsOne.cshtml",
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "left_side_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "left_side_column_after_category_navigation",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "left_side_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "right_side_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "right_side_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "notifications",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Notifications.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "productbox_add_info",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ProductBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "body_start_html_tag_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "content_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "content_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "body_end_html_tag_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "head_html_tag",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.Head.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "order_summary_content_before",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "order_summary_cart_footer",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "order_summary_content_deals",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.5",
+    "ZoneName": "order_summary_content_after",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "blogpost_page_before_body",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "blogpost_page_before_comments",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "blogpost_page_inside_comment",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "blogpost_page_after_comments",
+    "FoundInFile": [
+      "~\\Views\\Blog\\BlogPost.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "bloglist_page_before_posts",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "bloglist_page_inside_post",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "bloglist_page_after_posts",
+    "FoundInFile": [
+      "~\\Views\\Blog\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_after_breadcrumb",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_before_subcategories",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_before_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_after_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_before_filters",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "categorydetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\CategoryTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "manufacturerdetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "manufacturerdetails_before_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "manufacturerdetails_after_featured_products",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "manufacturerdetails_before_filters",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "manufacturerdetails_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "manufacturerdetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ManufacturerTemplate.ProductsInGridOrLines.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productsbytag_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productsbytag_before_product_list",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productsbytag_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\ProductsByTag.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productsearch_page_basic",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productsearch_page_advanced",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Search.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "searchbox_before_search_button",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\SearchBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "searchbox",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\SearchBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "header_menu_before",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "header_menu_after",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "mob_header_menu_before",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "mob_header_menu_after",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\TopMenu.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "vendordetails_top",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Vendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "vendordetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Catalog\\Vendor.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_billing_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_billing_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_billing_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\BillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_progress_before",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\CheckoutProgress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_progress_after",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\CheckoutProgress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_completed_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Completed.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_completed_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Completed.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_confirm_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Confirm.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_confirm_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\Confirm.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_billing_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_billing_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_billing_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcBillingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_confirm_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcConfirmOrder.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_confirm_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcConfirmOrder.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_payment_info_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_payment_info_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_payment_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_payment_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcPaymentMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_shipping_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_shipping_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_shipping_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_shipping_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "op_checkout_shipping_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\OpcShippingMethods.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_payment_info_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_payment_info_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentInfo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_payment_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_payment_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\PaymentMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_shipping_address_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_shipping_address_middle",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_shipping_address_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingAddress.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_shipping_method_top",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "checkout_shipping_method_bottom",
+    "FoundInFile": [
+      "~\\Views\\Checkout\\ShippingMethod.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "contactus_top",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactUs.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "contactus_bottom",
+    "FoundInFile": [
+      "~\\Views\\Common\\ContactUs.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "footer",
+    "FoundInFile": [
+      "~\\Views\\Common\\Footer.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "header_links_before",
+    "FoundInFile": [
+      "~\\Views\\Common\\HeaderLinks.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "header_links_after",
+    "FoundInFile": [
+      "~\\Views\\Common\\HeaderLinks.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "account_navigation_before",
+    "FoundInFile": [
+      "~\\Views\\Customer\\MyAccountNavigation.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "account_navigation_after",
+    "FoundInFile": [
+      "~\\Views\\Customer\\MyAccountNavigation.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "home_page_top",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "home_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Home\\Index.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "newslist_page_before_items",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "newslist_page_inside_item",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "newslist_page_after_items",
+    "FoundInFile": [
+      "~\\Views\\News\\List.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "newsitem_page_before_body",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "newsitem_page_before_comments",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "newsitem_page_inside_comment",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "newsitem_page_after_comments",
+    "FoundInFile": [
+      "~\\Views\\News\\NewsItem.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "orderdetails_page_top",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "orderdetails_page_overview",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "orderdetails_page_beforeproducts",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "orderdetails_page_afterproducts",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "orderdetails_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Order\\Details.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productreviews_page_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productreviews_page_inside_review",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productreviews_page_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductReviews.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_after_breadcrumb",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_before_pictures",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_after_pictures",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_overview_top",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_overview_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_before_collateral",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_bottom",
+    "FoundInFile": [
+      "~\\Views\\Product\\ProductTemplate.Grouped.cshtml",
+      "~\\Views\\Product\\ProductTemplate.Simple.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productdetails_add_info",
+    "FoundInFile": [
+      "~\\Views\\Product\\_AddToCart.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productbreadcrumb_before",
+    "FoundInFile": [
+      "~\\Views\\Product\\_ProductBreadcrumb.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productbreadcrumb_after",
+    "FoundInFile": [
+      "~\\Views\\Product\\_ProductBreadcrumb.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "profile_page_info_userdetails",
+    "FoundInFile": [
+      "~\\Views\\Profile\\Info.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "profile_page_info_userstats",
+    "FoundInFile": [
+      "~\\Views\\Profile\\Info.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "header",
+    "FoundInFile": [
+      "~\\Views\\Shared\\Header.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "header_selectors",
+    "FoundInFile": [
+      "~\\Views\\Shared\\Header.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "main_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsOne.cshtml",
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "main_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsOne.cshtml",
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "left_side_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "left_side_column_after_category_navigation",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "left_side_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml",
+      "~\\Views\\Shared\\_ColumnsTwo.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "right_side_column_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "right_side_column_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ColumnsThree.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "notifications",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Notifications.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "productbox_add_info",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_ProductBox.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "body_start_html_tag_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "content_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "content_after",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "body_end_html_tag_before",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "head_html_tag",
+    "FoundInFile": [
+      "~\\Views\\Shared\\_Root.Head.cshtml",
+      "~\\Views\\Shared\\_RootPopup.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "order_summary_content_before",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "order_summary_cart_footer",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "order_summary_content_deals",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  },
+  {
+    "Version": "3.4",
+    "ZoneName": "order_summary_content_after",
+    "FoundInFile": [
+      "~\\Views\\ShoppingCart\\OrderSummary.cshtml"
+    ]
+  }
+]
